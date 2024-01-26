@@ -1,6 +1,6 @@
 # React-Redux-Learning
 
-Welcome to my React-Redux project repository! 🚀 In this repository, I've shared the code for implementing Redux in a React application. If you're new to React or Redux, feel free to check out my other repositories where I've covered various topics such as React Router, React Tables, and more.
+Welcome to my React-Redux project repository! 🚀 In this repository, I've shared the code for implementing Redux in a React application. If you're new to React or Redux, feel free to check out my other repositories where I've learned and posted various topics such as React Router, React Tables, and more.
 
 ## Previous Learning Repositories
 
@@ -25,8 +25,8 @@ Contributions are welcome! If you have suggestions, improvements, or new feature
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ghansham-irshetti/)
-- Twitter: [Your Twitter Profile](https://twitter.com/Ghanasham2004)
+- LinkedIn: [Ghanasham Irashetti](https://www.linkedin.com/in/ghansham-irshetti/)
+- Twitter: [Ghanasham Irashetti](https://twitter.com/Ghanasham2004)
 - Email: irashettig@gmail.com
 
 ## Resources
