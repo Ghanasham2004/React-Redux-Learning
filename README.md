@@ -9,7 +9,7 @@ Welcome to my React-Redux project repository! 🚀 In this repository, I've shar
 
 ## Features Implemented
 
-- **React-Redux**: State management using Redux in React application.
+- **React-Redux**: State management using Redux, Fetching Data Using 'GET' Method in React application.
 
 ## How to Run
 
