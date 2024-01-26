@@ -34,4 +34,4 @@ Contributions are welcome! If you have suggestions, improvements, or new feature
 - For learning React: [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 - For learning Redux: [Codevolution Redux Playlist](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
 
-Happy coding! 😊
+Happy coding..! 😊
